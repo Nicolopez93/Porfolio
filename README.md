@@ -1,1 +1,1 @@
-porfolio-blush-sigma.vercel.app
+https://porfolio-blush-sigma.vercel.app/
