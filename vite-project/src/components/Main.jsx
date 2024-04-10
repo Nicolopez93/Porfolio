@@ -47,28 +47,28 @@ const Main = () => {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaFacebookF className="cursor-pointer text-white" size={20} />
+              <FaFacebookF className="cursor-pointer text-white" size={30} />
             </a>
             <a
               href="https://www.instagram.com/nico_lopez93/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaInstagram className="cursor-pointer text-white" size={20} />
+              <FaInstagram className="cursor-pointer text-white" size={30} />
             </a>
             <a
               href="https://github.com/Nicolopez93"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaGithub className="cursor-pointer text-white" size={20} />
+              <FaGithub className="cursor-pointer text-white" size={30} />
             </a>
             <a
               href="https://www.linkedin.com/in/nicolas-lopez-98a199185/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaLinkedinIn className="cursor-pointer text-white" size={20} />
+              <FaLinkedinIn className="cursor-pointer text-white" size={30} />
             </a>
           </div>
         </div>
