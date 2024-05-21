@@ -20,6 +20,7 @@ const Projects = () => {
         <ProjectsItems img={img} title="Frontend 4" p="React y Tailwind" />
         <ProjectsItems img={img} title="Car4All" p="React y Vite" />
         <ProjectsItems img={img} title="Netflix" p="React y Vite" />
+        <ProjectsItems img={img} title="Weather" p="React y Vite" />
         <ProjectsItems img={img} title="Backend 1" p="java H2 Postman" />
         <ProjectsItems img={img} title="Backend 2" p="java H2 Postman" />
       </div>

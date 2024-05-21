@@ -10,6 +10,7 @@ const ProjectsItems = ({ img, title, p }) => {
     "Frontend 4": "https://website-pi-three-21.vercel.app/",
     "Car4All": "http://car4all.s3-website-us-east-1.amazonaws.com/",
     "Netflix": "https://github.com/Nicolopez93/Netflix.git",
+    "Weather": "https://website2-coral.vercel.app/",
     "Backend 1": "https://github.com/Nicolopez93/backend-1",
     "Backend 2": "https://github.com/Nicolopez93/backend-car4all.git"
   };
