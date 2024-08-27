@@ -1,5 +1,5 @@
 import React from "react";
-import imgPersonal from "../assets/Captura.jpeg";
+import imgPersonal from "../assets/IMG_1854.jpg";
 
 const About = () => {
   return (
@@ -17,11 +17,11 @@ const About = () => {
         <img
           src={imgPersonal}
           alt="Personal"
-          className="w-60 h-60 md:w-80 md:h-80 rounded-lg border-4 border-[#001b5e] mb-4 md:mb-0"
+          className="w-60  md:w-80 rounded-lg border-4 border-[#001b5e] mb-4 md:mb-0"
         />
         <div className="md:ml-8">
           <h3 className="text-2xl font-semibold text-[#001b5e]">
-            Web Developer & Architect
+            Web Developer
           </h3>
           <div className="mt-4">
             <p className="text-lg text-gray-800">Nicolas Lopez</p>
@@ -39,7 +39,7 @@ const About = () => {
             </a>
             </p>
             <p className="text-lg text-gray-800">Linkedin : <a
-              href="https://www.linkedin.com/in/nicolopezarq/"
+              href="https://www.linkedin.com/in/nicolas-lopez-98a199185/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-lg text-blue-800 hover:underline"
